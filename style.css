@@ -1,0 +1,73 @@
+.block-views-blockproperties-block-8, .block-views-blockproperties-block-3{
+	float: left;
+	width: 50%;
+	padding:20px;
+	overflow: hidden;	
+}
+
+.block-views-blockproperties-block-8 {
+	
+	box-sizing: border-box;
+	border-radius: 10px;
+	margin: auto;
+
+
+
+}
+.block-views-blockproperties-block-8 h2{
+
+	font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #626161;
+
+
+	text-decoration-line:  underline;
+	text-decoration-color: #F44336;
+
+}
+.block-views-blockproperties-block-8 .form-group .views-row{
+	
+}
+
+.block-views-blockproperties-block-8 .form-group .views-row .views-field-field-title-document div{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 19px;
+	/* identical to box height */
+	
+
+	color: #626161;
+}
+.block-views-blockproperties-block-8 .form-group .views-row .views-field-field-file{
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 14px;
+	/* identical to box height */
+
+	letter-spacing: 0.05em;
+
+	color: #626161;
+}
+.block-views-blockproperties-block-8 .form-group .views-row .views-field-field-file .field-content .file-size{
+	float: right;
+
+}
+
+svg{
+	width: 20px;
+	color: #A9CA3F;
+	align-items: center;
+	letter-spacing: 0.05em;
+}

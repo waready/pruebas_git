@@ -1,0 +1,59 @@
+	.js-quickedit-main-content img{
+		position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 100px;
+	top: 5px;
+
+	border-radius: 10px;
+	}
+
+	.head__contact{
+		padding-top: 30px;
+
+	}
+	.js-quickedit-main-content .head__contact section .icon__item__views{
+		width: 5%;
+		
+		float: left;
+	}
+
+	.js-quickedit-main-content .head__contact section .data_group
+	{
+		padding-left: 30px;
+		
+		width: 95%;
+		float: left;
+	}
+	.js-quickedit-main-content .head__contact section .icon__item__views svg{
+		
+		padding-top: 6px;
+		width: 25px;
+		font-family: Poppins;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 20px;
+			line-height: 24px;
+			/* identical to box height */
+
+			
+			align-items: center;
+			letter-spacing: 0.05em;
+			color: #A9CA3F;
+	}
+
+	.js-quickedit-main-content .social__networks .view-content{
+		float: right;
+		padding-top: 15px;
+		display: flex;
+		align-items: center;
+
+	}
+
+
+	.js-quickedit-main-content .social__networks .view-content  svg {
+		width: 35px;
+		color: #626161;
+		margin-right: 25px;
+		margin-left: 1px;
+	}
